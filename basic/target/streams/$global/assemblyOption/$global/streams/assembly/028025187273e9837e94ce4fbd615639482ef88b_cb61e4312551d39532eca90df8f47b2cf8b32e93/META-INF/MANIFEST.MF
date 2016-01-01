@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scala-csv
+Implementation-Version: 1.2.2
+Specification-Vendor: com.github.tototoshi
+Specification-Title: scala-csv
+Implementation-Vendor-Id: com.github.tototoshi
+Specification-Version: 1.2.2
+Implementation-Vendor: com.github.tototoshi
+

@@ -1,0 +1,4 @@
+#!/home/peyton/Documents/muvr-analytics/venv/bin/python
+# EASY-INSTALL-SCRIPT: 'neon==1.1.2','neon'
+__requires__ = 'neon==1.1.2'
+__import__('pkg_resources').run_script('neon==1.1.2', 'neon')

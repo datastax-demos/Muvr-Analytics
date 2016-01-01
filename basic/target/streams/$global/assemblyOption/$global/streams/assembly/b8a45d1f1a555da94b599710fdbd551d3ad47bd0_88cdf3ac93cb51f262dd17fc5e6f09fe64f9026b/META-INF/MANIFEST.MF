@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: chirino
+Build-Jdk: 1.7.0_07
+Specification-Title: leveldbjni-osx
+Specification-Version: 1.5
+Specification-Vendor: FuseSource, Corp.
+Implementation-Title: leveldbjni-osx
+Implementation-Version: 1.5
+Implementation-Vendor-Id: org.fusesource.leveldbjni
+Implementation-Vendor: FuseSource, Corp.
+

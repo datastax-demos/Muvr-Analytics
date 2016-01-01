@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.7.0_07 (Oracle Corporation)
+Built-By: chirino
+Build-Jdk: 1.7.0_07
+Specification-Title: leveldbjni
+Specification-Version: 1.7
+Specification-Vendor: FuseSource, Corp.
+Implementation-Title: leveldbjni
+Implementation-Version: 1.7
+Implementation-Vendor-Id: org.fusesource.leveldbjni
+Implementation-Vendor: FuseSource, Corp.
+Export-Package: org.fusesource.leveldbjni;uses:="org.iq80.leveldb,org.
+ fusesource.leveldbjni.internal";version="1.7",org.fusesource.leveldbj
+ ni.internal;uses:="org.iq80.leveldb";version="1.7"
+Ignore-Package: org.fusesource.hawtjni.runtime,org.fusesource.leveldbj
+ ni,org.fusesource.leveldbjni.internal
+Tool: Bnd-0.0.357
+Bundle-Name: leveldbjni
+Bundle-Vendor: FuseSource, Corp.
+Bundle-Version: 1.7
+Bnd-LastModified: 1368450682976
+Bundle-ManifestVersion: 2
+Bundle-Description: leveldbjni is a jni library for acessing leveldb.
+Bundle-License: http://www.opensource.org/licenses/BSD-3-Clause
+Import-Package: org.iq80.leveldb,sun.reflect;resolution:=optional
+Bundle-SymbolicName: org.fusesource.leveldbjni
+Bundle-DocURL: http://fusesource.com/
+

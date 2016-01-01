@@ -1,0 +1,13 @@
+setup.py
+converters/__init__.py
+converters/neon2iosmlp.py
+muvr_analysis_mlp.egg-info/PKG-INFO
+muvr_analysis_mlp.egg-info/SOURCES.txt
+muvr_analysis_mlp.egg-info/dependency_links.txt
+muvr_analysis_mlp.egg-info/top_level.txt
+training/__init__.py
+training/acceleration_dataset.py
+training/augmentation.py
+training/examples.py
+training/mlp_model.py
+training/utils.py

@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: muvr-analysis-mlp
+Version: 1.0-SNAPSHOT
+Summary: Spark analysis for the muvr project
+Home-page: https://github.com/muvr/muvr-analytics
+Author: Tom Bocklisch
+Author-email: tomb@cakesolutions.net
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: numpy
+Requires: neon

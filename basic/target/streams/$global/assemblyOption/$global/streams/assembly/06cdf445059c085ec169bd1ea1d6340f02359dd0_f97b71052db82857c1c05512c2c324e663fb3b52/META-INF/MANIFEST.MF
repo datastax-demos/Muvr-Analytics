@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: akka-analytics-cassandra
+Implementation-Version: 0.3
+Specification-Vendor: com.github.krasserm
+Specification-Title: akka-analytics-cassandra
+Implementation-Vendor-Id: com.github.krasserm
+Specification-Version: 0.3
+Implementation-Vendor: com.github.krasserm
+

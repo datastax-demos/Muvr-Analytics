@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: basic
+Implementation-Version: 1.0.0-SNAPSHOT
+Specification-Vendor: io.muvr
+Specification-Title: basic
+Implementation-Vendor-Id: io.muvr
+Specification-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor: io.muvr
+

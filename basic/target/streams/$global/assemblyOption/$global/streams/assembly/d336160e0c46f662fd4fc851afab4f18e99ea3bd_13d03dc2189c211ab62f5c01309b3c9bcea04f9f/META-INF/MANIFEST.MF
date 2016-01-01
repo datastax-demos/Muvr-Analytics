@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: common-protocol-marshalling
+Implementation-Version: 1.0.0-SNAPSHOT
+Specification-Vendor: io.muvr
+Specification-Title: common-protocol-marshalling
+Implementation-Vendor-Id: io.muvr
+Specification-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor: io.muvr
+
